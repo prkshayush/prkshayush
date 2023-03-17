@@ -4,7 +4,7 @@
   
   <p>🔭I'm a self-learned programmer with my primary language being Java</p>
 
-👨‍💻Also, I'm aspiring to be a full-stack developer and I work with MERN stack. Currently I'm learning Go-lang and Docker
+👨‍💻Also, I'm aspiring to be a full-stack developer and I work with ReactJS, Go-lang and MongoDB
 
 🌱I've recently discovered Open-Source projects during Hacktoberfest and excited to be an Open Source Contributor
   
